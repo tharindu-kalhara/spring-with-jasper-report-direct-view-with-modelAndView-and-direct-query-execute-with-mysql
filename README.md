@@ -249,3 +249,5 @@ INSERT INTO `CARS` VALUES (8, 'Volkswagen', 21600);
 SET FOREIGN_KEY_CHECKS = 1;
 
 ```
+## final view on web
+![final view](https://raw.githubusercontent.com/tharindu-kalhara/spring-with-jasper-report-direct-view-with-modelAndView-and-direct-query-execute-with-mysql/master/ScreenShot_20181220130657.png)
