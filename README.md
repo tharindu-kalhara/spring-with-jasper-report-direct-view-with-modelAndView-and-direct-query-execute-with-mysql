@@ -53,7 +53,7 @@ public class JasperController {
 		<![CDATA[Y2FycyAsMTUsMTUsNWU2MDQ5NzgtNDFjNC00NGRjLTlhMWYtNzhmMDM2YzZhNTY3Ow==
 ]]>
 	</property>
-	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="payboot-mysql.xml"/>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="mysql.xml"/>
 	<style name="Title" forecolor="#FFFFFF" fontName="Times New Roman" fontSize="50" isBold="false"/>
 	<style name="SubTitle" forecolor="#CCCCCC" fontName="Times New Roman" fontSize="18" isBold="false"/>
 	<style name="Column header" forecolor="#666666" fontName="Times New Roman" fontSize="14" isBold="true"/>
