@@ -1,4 +1,4 @@
-package com.payboot.admin.controller.jaspertest;
+package com.jaspertest;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
